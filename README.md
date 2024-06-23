@@ -1,11 +1,18 @@
-# 天气失效了，个人也不是很在意，遂删除:)
+# 原作者好久没更新了，我针对自己喜欢的样式重做了一遍，把失效的和不在意的东西删除了，顺便学着用一下github:)
+
+## 介绍
 向日葵8号卫星实时更新windows壁纸
 
 脚本运行路径会自动识别，无需手动修改
 
 现已支持背景图修改，背景图片为\images\background.png,可以根据需要自行替换
 
-windows任务计划程序设置如下：
+## **更新内容**
+删除天气、位置投影相关的内容（失效了，我也不会整）
+
+修改壁纸为适配 2K 16:10，修改背景
+
+## windows任务计划程序设置如下：
 
 创建任务:
 
@@ -23,10 +30,12 @@ windows任务计划程序设置如下：
 
 ![image](https://github.com/luzheminlulu/himawari8_background/blob/master/images/4.png)
 
-效果图：
+
+## 修改后的效果图：
 
 ![image](https://github.com/luzheminlulu/himawari8_background/blob/master/images/5.png)
 
-参考资料:
+
+## 参考资料:
 
 https://blog.csdn.net/Q_QuanTing/article/details/82854444
