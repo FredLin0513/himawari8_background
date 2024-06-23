@@ -16,24 +16,24 @@
 
 创建任务:
 
-![image](https://github.com/luzheminlulu/himawari8_background/blob/master/images/1.png)
+![image](https://github.com/FredLin0513/himawari8_background/blob/master/images/1.png)
 
 新建触发器，卫星每10分钟更新一次数据，所以刷新频率不必设的太高:
 
-![image](https://github.com/luzheminlulu/himawari8_background/blob/master/images/2.png)
+![image](https://github.com/FredLin0513/himawari8_background/blob/master/images/2.png)
 
 新建操作，参数根据你的路径修改：
 
-![image](https://github.com/luzheminlulu/himawari8_background/blob/master/images/3.png)
+![image](https://github.com/FredLin0513/himawari8_background/blob/master/images/3.png)
 
 进行一些行为设置，不设置也可以，灵活参考：
 
-![image](https://github.com/luzheminlulu/himawari8_background/blob/master/images/4.png)
+![image](https://github.com/FredLin0513/himawari8_background/blob/master/images/4.png)
 
 
 ## 修改后的效果图：
 
-![image](https://github.com/luzheminlulu/himawari8_background/blob/master/images/5.png)
+![image](https://github.com/FredLin0513/himawari8_background/blob/master/images/final.png)
 
 
 ## 参考资料:
